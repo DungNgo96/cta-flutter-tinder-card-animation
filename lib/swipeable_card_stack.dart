@@ -9,7 +9,7 @@ export './swipe_controller.dart';
 
 const List<Alignment> cardsAlign = [
   Alignment(0.0, 1.0),
-  Alignment(0.0, 0.8),
+  Alignment(0.0, 0.0),
   Alignment(0.0, 0.0)
 ];
 List<Size> cardsSize = List.filled(3, Size(1, 1));
